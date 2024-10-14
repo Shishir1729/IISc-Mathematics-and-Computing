@@ -6,14 +6,12 @@ We encourage contributions from students of all batches, students of the EECS di
 
 ---
 
-### 1. First Year, Second Year, Departmental Courses
-
-- **Courses** (`Course_code-Course_Name/`):  
+### 1. **Courses** (`Course_code-Course_Name/`): 
   Each course will have its own folder with the year of the course containing:
-  - Assignments
-  - Notes
-  - Exam Papers
-  - A README file consisting of the Instructor of that year and a review of the course.  
+  - `Assignments/`
+  - `Notes/`
+  - `Exam Papers/`
+  - A `README.md/` file consisting of the Instructor of that year and a review of the course.  
     Please make sure to drop your name while reviewing the course.
 
 ### 2. Internships, Research Programs, Placements
